@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    font-family: 'Questrial', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(17, 87, 4);
+}
+
+h1 {color:#71c837;
+    font-size: 30px;
+}
+
+h2 {color: #71c837;
+    font-size: 22px;
+}
+
+header {
+    background-color: #88c23d6b;
+    min-height: 20px;
+    text-align: center;
+    margin-top: 0px; 
+    padding: 10px 0px 0px 10px;
+    font-family: 'Questrial', sans-serif;
+}
+
+.img__logo{
+    margin: 15px;
+}
+
+#boasvindas{
+    background-color:#fff;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }
+
+
+/*inicio do estilo menu*/
+#menu{
+    
+    text-align: center; /*alinhamento do texto*/
+    padding: 15px; /*espaço entre a borda e o conteúdo do elemento*/
+    background-color: #87bf3fdb; /*cor de fundo*/
+    color: #2a3f0d;
+}
+
+/*fim do estilo do menu*/  
+.avatar__container{
+    display: flex;
+    justify-content: center;
+}
+
+.icones-sociais li {
+    display: inline-block;
+}
+
+.icones-sociais a {
+    width: 40px;
+    height: 40px;
+    display: block;
+    text-indent: -99999px;
+    margin-right:15px;
+}
+
+
+.github {
+    background-image: url("imagem/github.png");
+}
+
+.email {
+     background-image: url("imagem/mail.png");
+}
+
+.linkedin {
+    background-image: url("imagem/linkedin.png");
+}
+.facebook {
+    background-image: url("imagem/fb.png");
+}
+.instagram{
+    background-image: url("imagem/insta.png");
+}
+
+
+#sobre{
+    
+    background-color: #88c23d6b; /*cor de fundo*/
+    padding: 40px;
+     
+}
+
+
+#hobbies{
+    
+    background-color: #fff; /*cor de fundo*/
+    padding: 40px;
+    
+     
+}
+
+.icones{
+    text-align: center;
+}
+
+.hobbies li {
+    display: inline-block;
+}
+
+
+/* inicio do estilo footer */
+footer {
+    background-color: #87bf3fba;
+    min-height: 20px;
+    text-align: center;
+    margin-top: 0px; 
+    padding: 10px 0px 10px 0px;
+    font-family: 'Questrial', sans-serif;
+    
+}
+
+
+footer p {
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+}
+
+.img__footer{
+    width: 45px;
+    height: 50px;
+}
+/* final do estilo footer */
