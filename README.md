@@ -309,7 +309,7 @@ Um pull request é quando você quer fazer merge do seu código em outro branch,
 Página Pessoal ( Git, Github, Github Pages, HTML e CSS)
 
 
-https://github.com/mariaritacasagrande/Exercicio-de-Git-Pagina-Pessoal
+https://github.com/JuliaValerio/introducao-git-hub/tree/master/exercicio
 
 
 ***
