@@ -54,6 +54,10 @@ header {
     justify-content: center;
 }
 
+div.avatar img{
+    border-radius: 50%;
+}
+
 .icones-sociais li {
     display: inline-block;
 }
@@ -113,7 +117,7 @@ header {
 
 /* inicio do estilo footer */
 footer {
-    background-color: #87bf3fba;
+    background-color: #a7d073a3;
     min-height: 20px;
     text-align: center;
     margin-top: 0px; 
@@ -131,6 +135,6 @@ footer p {
 
 .img__footer{
     width: 45px;
-    height: 50px;
+    height: 65px;
 }
 /* final do estilo footer */
