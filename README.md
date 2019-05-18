@@ -188,8 +188,8 @@ git config --global --unset-all user.email “mariarita@gmail.com”
 1) Acessar o GitHub e criar uma conta gratuita.
 **Importante:** utilizar um nome de usuário fácil de usar, pois essa url vai ser muito utilizada durante a vida profissional.
 
-2) Acessar https://github.com/reprograma
-3) Acessar o repositório `github`
+2) Acessar https://github.com/juliaValerio
+3) Acessar o repositório `introducao-git-hub`
 4) Clicar no botão `Clone or download` e copiar a url https
 4) Navegar até a pasta aonde você vai fazer o clone do projeto
 5) `git clone url-que-vocês-copiaram`
