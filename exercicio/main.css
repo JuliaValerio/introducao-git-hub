@@ -56,6 +56,7 @@ header {
 
 div.avatar img{
     border-radius: 50%;
+    border: 3px solid  #a7d073a3;
 }
 
 .icones-sociais li {
